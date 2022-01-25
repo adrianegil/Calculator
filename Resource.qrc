@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resource/Cal.ico</file>
+        <file>Resource/Del.ico</file>
+    </qresource>
+</RCC>
